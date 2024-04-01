@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+body, html {
+  font-family: "Poppins", sans-serif;
+}
+
+.webgl {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+#styleGUI, #colorGUI, #gui { 
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  background-color: transparent;
+  
+}
